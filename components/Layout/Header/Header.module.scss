@@ -1,0 +1,14 @@
+.discord {
+    transition: all 0.2s ease-in;
+    &:hover {
+        fill: #254ee2;
+        cursor: pointer;
+    }
+}
+.netflix {
+    transition: all 0.5s ease-in-out;
+    &:hover {
+        fill: #d81f26;
+        cursor: pointer;
+    }
+}
