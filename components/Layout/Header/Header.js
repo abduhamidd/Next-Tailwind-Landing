@@ -1,8 +1,7 @@
 import {useState, useEffect} from 'react';
-import styles from './Header.module.scss';
+
 import LogoVPN from '../../../public/assets/Logo.svg';
-import Discord from '../../../public/assets/icon/Discord.svg';
-import Netflix from '../../../public/assets/icon/Netflix.svg';
+
 import {Link as LinkScroll} from 'react-scroll';
 import Link from 'next/link';
 import ButtonOutline from '../../misc/ButtonOutline';
